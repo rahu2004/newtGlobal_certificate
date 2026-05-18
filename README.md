@@ -1,0 +1,1 @@
+# newtGlobal_certificate
